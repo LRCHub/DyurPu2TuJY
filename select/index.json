@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "BEST",
+  "base_artist": "Yabai T-Shirts Yasan",
+  "createdAt": "2025-12-23T08:42:47.996717Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Best Friend",
+      "artist": "Rex Orange County",
+      "has_synced": true,
+      "path": "select/01_Best_Friend_Rex_Orange_County.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Best Thing Since Backroads",
+      "artist": "Jake Owen",
+      "has_synced": true,
+      "path": "select/02_Best_Thing_Since_Backroads_Jake_Owen.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "She Got the Best of Me",
+      "artist": "Luke Combs",
+      "has_synced": true,
+      "path": "select/03_She_Got_the_Best_of_Me_Luke_Combs.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "The Best - Edit",
+      "artist": "Tina Turner",
+      "has_synced": true,
+      "path": "select/04_The_Best_-_Edit_Tina_Turner.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Best Kinda Bad",
+      "artist": "Walker McGuire",
+      "has_synced": true,
+      "path": "select/05_Best_Kinda_Bad_Walker_McGuire.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Best of Intentions",
+      "artist": "Travis Tritt",
+      "has_synced": true,
+      "path": "select/06_Best_of_Intentions_Travis_Tritt.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Best Of Intentions (Album Version)",
+      "artist": "Travis Tritt",
+      "has_synced": true,
+      "path": "select/07_Best_Of_Intentions_(Album_Version)_Travis_Tritt.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Best Shot",
+      "artist": "Jimmie Allen",
+      "has_synced": true,
+      "path": "select/08_Best_Shot_Jimmie_Allen.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Best Shot (Acoustic)",
+      "artist": "Jimmie Allen",
+      "has_synced": true,
+      "path": "select/09_Best_Shot_(Acoustic)_Jimmie_Allen.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Best of All Possible Worlds",
+      "artist": "Kris Kristofferson",
+      "has_synced": false,
+      "path": "select/10_Best_of_All_Possible_Worlds_Kris_Kristofferson.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "I Will Always Love You (from the Original Motion Picture Soundtrack Album, \"The Best Little Whorehouse In Texas\")",
+      "artist": "Dolly Parton",
+      "has_synced": true,
+      "path": "select/11_I_Will_Always_Love_You_(from_the_Original_Motion_Picture_Soundtrack_Album,__The__Dolly_Parton.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "My Best Friend",
+      "artist": "Tim McGraw",
+      "has_synced": true,
+      "path": "select/12_My_Best_Friend_Tim_McGraw.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "My Best Thinkin'",
+      "artist": "Clint Black",
+      "has_synced": true,
+      "path": "select/13_My_Best_Thinkin'_Clint_Black.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "The Best Day",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/14_The_Best_Day_George_Strait.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "The Best Day (Album Version)",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/15_The_Best_Day_(Album_Version)_George_Strait.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "The Best Day (Album Version)",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/16_The_Best_Day_(Album_Version)_George_Strait.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "The Best Year Of My Life",
+      "artist": "Eddie Rabbitt",
+      "has_synced": true,
+      "path": "select/17_The_Best_Year_Of_My_Life_Eddie_Rabbitt.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "You're My Best Friend",
+      "artist": "Don Williams",
+      "has_synced": true,
+      "path": "select/18_You're_My_Best_Friend_Don_Williams.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "You're My Best Friend (Single Version)",
+      "artist": "Don Williams",
+      "has_synced": true,
+      "path": "select/19_You're_My_Best_Friend_(Single_Version)_Don_Williams.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "BEST",
+      "artist": "ヤバイTシャツ屋さん",
+      "has_synced": false,
+      "path": "select/pl_01_BEST_ヤバイTシャツ屋さん.txt"
+    }
+  ]
+}
